@@ -3,7 +3,7 @@
 This repository contains all the projects I built during my **CODEXINTERN Front-End Development Internship**.  
 The internship was focused on **React.js, Tailwind CSS, and React Router**, with practical implementations of APIs, hooks, and client-side routing.
 
----
+
 
 ## 📅 Internship Details
 
@@ -12,7 +12,7 @@ The internship was focused on **React.js, Tailwind CSS, and React Router**, with
 - **End Date**: 31st August 2025  
 - **Deadline for Task Submission**: 31st August 2025  
 
----
+
 
 ## 🚀 Projects
 
@@ -26,7 +26,7 @@ The internship was focused on **React.js, Tailwind CSS, and React Router**, with
 - Instant translation output  
 - Responsive Tailwind UI  
 
----
+
 
 ### 2️⃣ Random String Generator
 🔹 A basic React app that generates random strings.  
@@ -37,7 +37,7 @@ The internship was focused on **React.js, Tailwind CSS, and React Router**, with
 - Auto-generate on page load (via useEffect)  
 - Optimized rendering using useCallback  
 
----
+
 
 ### 3️⃣ Client-Side Routing App
 🔹 A React app with multiple pages using **react-router-dom**.  
@@ -49,7 +49,7 @@ The internship was focused on **React.js, Tailwind CSS, and React Router**, with
 - Responsive navigation bar  
 - Styled with Tailwind (colors, hero section, footer)  
 
----
+
 
 ## 🛠️ Tech Stack
 - **React.js** (Frontend)  
@@ -57,4 +57,4 @@ The internship was focused on **React.js, Tailwind CSS, and React Router**, with
 - **React Router DOM** (Routing)  
 - **RapidAPI** (Translation API)  
 
----
+
